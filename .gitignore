@@ -1,0 +1,36 @@
+### C++ ###
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.python-version
+.env
+.venv/
+venv/
+ENV/
+
+
+### Java ###
+*.class
